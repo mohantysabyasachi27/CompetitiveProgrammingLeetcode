@@ -1,2 +1,2 @@
-# TeamBlind75Leetcode
-Top 75 curated Leetcode questions for Job Interviews
+# Leetcode Solutions in Java
+Solutions to Top Leetcode questions for Job Interviews
