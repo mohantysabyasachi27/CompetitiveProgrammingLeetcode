@@ -12,6 +12,7 @@ public class String_LeetCode3_Longest_SubstringWithoutRepeatingChars {
 		System.out.println(ob.lengthOfLongestSubstring("abcabcbb"));
 
 	}
+
 	/**
 	 * @author sunny
 	 * @param string
@@ -22,7 +23,7 @@ public class String_LeetCode3_Longest_SubstringWithoutRepeatingChars {
 		if (s == null || s.equals("")) {
 			return 0;
 		}
-		
+
 		if (s.length() == 1) {
 			return 1;
 		}
